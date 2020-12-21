@@ -13,6 +13,7 @@ This site is a single page site used by Horiseon a SEO managment company. The go
   ![Horiseon homepage deployed](assets/images/horiseon_website.png)
 ## Credit
 Origin Repo can be found here https://github.com/coding-boot-camp/urban-octo-telegram
+Site edited by Kevin Miller (FlipFlaptheTraitor) using Git and VScode
 ## Licence
 MIT License
 
